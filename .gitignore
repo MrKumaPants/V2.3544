@@ -1,0 +1,4 @@
+configs/common
+macros/common
+scripts/common
+*.bkp
